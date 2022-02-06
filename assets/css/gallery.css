@@ -1,0 +1,33 @@
+hr {
+  border-color: #e85fca;
+  border-width: 2px;
+  width: 121px;
+}
+
+body {
+  background: url(../../assets/img/background.jpg);
+  padding: 5px;
+}
+
+.navbar.navbar-light.navbar-expand-md {
+  background: rgb(25,23,23);
+}
+
+.photo-gallery {
+  margin-top: 0px;
+  color: #313437;
+  /*background-color: #fff;*/
+}
+
+.photo-gallery {
+  color: #313437;
+  /*background-color: #fff;*/
+}
+
+#ours {
+}
+
+.photo-gallery {
+  margin-top: 100px;
+}
+

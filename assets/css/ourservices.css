@@ -1,0 +1,71 @@
+@media (min-width: 576px) {
+  .container {
+    margin-left: 110px;
+  }
+}
+
+@media (min-width: 768px) {
+  .container, .container-lg, .container-md, .container-sm, .container-xl {
+    margin-left: 35px;
+  }
+}
+
+.container, .container-lg, .container-md, .container-sm, .container-xl {
+  margin-left: 0px;
+}
+
+#ours {
+  text-align: center;
+  padding: 20px;
+}
+
+.container.sect {
+  margin-top: 30px;
+}
+
+.col-md-4 {
+  margin-top: 10px;
+}
+
+.card-body {
+  color: white;
+  background: -webkit-linear-gradient(90deg, #700877 0%, #ff2759 100%, #ff2759 100%);
+  background: linear-gradient(90deg, #700877 0%, #ff2759 100%, #ff2759 100%);
+}
+
+.navbar.navbar-light.navbar-expand-md {
+  background: #212529;
+}
+
+body {
+  padding: 8px;
+  background: url(../../assets/img/background.jpg);
+}
+
+#ours {
+  margin-top: 90px;
+}
+
+#about {
+  margin-top: 85px;
+}
+
+footer {
+  background-color: #292c2f;
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
+  box-sizing: border-box;
+  width: 100%;
+  text-align: left;
+  font: bold 16px sans-serif;
+  padding: 55px 50px;
+  margin-top: -5px;
+  bottom: 0;
+  color: #fff;
+}
+
+@media (min-width: 1200px) {
+  .container.sect {
+    margin-left: 50px;
+  }
+}
+
